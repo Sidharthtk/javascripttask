@@ -8,5 +8,5 @@ const revers =(a)=>{
     return reverse;
     
 }
-console.log(revers("hello"));
+console.log(revers("sidharth"));
 
